@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felix Adjei Sowah</h1>
 <h3 align="center">I'm passionate about Learning new technologies</h3>
 
-<p align="left"> <a href="https://twitter.com/lancelot_hans" target="blank"><img src="https://img.shields.io/twitter/follow/@lancelot_hans?logo=twitter&style=for-the-badge" alt="@lancelot_hans" /></a> </p>
+<p align="left"> <a href="https://twitter.com/lancelot_hans" target="blank"><img src="https://img.shields.io/twitter/follow/lancelot_hans?logo=twitter&style=for-the-badge" alt="@lancelot_hans" /></a> </p>
 
 - 🔭 I’m currently working with [JavaScript](https://lancelot-so.github.io/capstone_project/)
 
@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 💬 Ask me about **JavaScript, React, and Ruby**
+- 💬 Ask me about **JavaScript, React, and Ruby on Rails**
 
 - 📫 How to reach me **Fsowah001@gmail.com**
 
@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Lancelot-SO" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="@Lancelot-SO" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/felix-sowah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/infelix-sowah/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/felix-sowah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/felix-sowah/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
